@@ -8,3 +8,6 @@ team has no remaining members left.
 between those parameters while the ai will choose a random number set by them. Whoever is closer to that set number wins.
 3. namesDraw.py uses BeuatifulSoup feature from the zipped python file to read HTML data, parse it, and count the
 sum of the extracted numbers from the file (problem from coursera Python course)
+4. main.py uses json and basic SQL commands to read data from a text file and organize it into a table which puts different
+information in different categories
+
